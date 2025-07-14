@@ -6,7 +6,7 @@ Azown is a web-based real estate platform designed to streamline property rental
 **Backend:** Spring Boot  
 **Database:** MySQL
 
-  # Postman API ScreenShots:
+  # Postman API Screenshot:
  <img width="1366" height="768" alt="Screenshot (426)" src="https://github.com/user-attachments/assets/3a49a326-d344-48e6-8fc0-3f761a080262" />
  <img width="1366" height="768" alt="Screenshot (435)" src="https://github.com/user-attachments/assets/393f740d-4f89-467a-b084-235dc34df05a" />
 <img width="1366" height="768" alt="Screenshot (428)" src="https://github.com/user-attachments/assets/4e6fbbc1-8c8d-4d32-8547-320b28a21a1a" />
